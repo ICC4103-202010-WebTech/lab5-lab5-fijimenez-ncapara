@@ -14,3 +14,7 @@ Please proceed with the following steps:
   above `model_queries.rb` file.
 * Make sure you add, commit and push your changes.
 
+
+# Participant Students:
+* Francisco Javier Jimenez Iglesias
+* Nicolas Claus Apara Reineking
